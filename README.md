@@ -13,11 +13,6 @@ SunCore is a library for Minecraft Launchers (uses CmlLib.Core), applications th
 - Launch Minecraft
 - and more coming soon!
 
-
-## Installation
-
-Install SunCore Ultralight with nuget
-
     
 ## Contributing
 
