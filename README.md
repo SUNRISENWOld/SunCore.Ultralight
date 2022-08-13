@@ -12,6 +12,13 @@ SunCore is a library for applications that can manage Windows OS (e.g. Change wa
 - Play MP3 audio
 - and more coming soon!
 
+## Installation
+
+Install SunCore Ultralight with nuget
+
+```bash
+  dotnet add package SunCore.Ultralight --version 1.0.1
+```
     
 ## Contributing
 
