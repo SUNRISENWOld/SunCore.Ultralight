@@ -18,10 +18,6 @@ SunCore is a library for Minecraft Launchers (uses CmlLib.Core), applications th
 
 Install SunCore Ultralight with nuget
 
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Contributing
 
