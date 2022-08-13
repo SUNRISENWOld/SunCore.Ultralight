@@ -35,18 +35,22 @@ Getting Image from Stream:
 ```csharp
 using SunCore.Ultralight.SystemManagement.Native_win32.NT.Media;
 
+Images images = new Images();
+
 private Image myImage;
 
-myImage = Images.GetFromStream("https://example.com");
+myImage = images.GetFromStream("https://example.com");
 ```
 
 Getting Image From File:
 ```csharp
 using SunCore.Ultralight.SystemManagement.Native_win32.NT.Media;
 
+Images images = new Images();
+
 private Image myImage;
 
-myImage = Images.GetFromFile(@"C:\Users\User\Pictures\flower.jpg");
+myImage = images.GetFromFile(@"C:\Users\User\Pictures\flower.jpg");
 ```
 Setting desktop Wallpaper:
 ```csharp
