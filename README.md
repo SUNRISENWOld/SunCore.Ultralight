@@ -1,4 +1,4 @@
-
+<img src="https://sunrisenw.s3.amazonaws.com/Images/512x512.png" width=80px height=80px></img> 
 # SunCore
 
 SunCore is a library for Minecraft Launchers (uses CmlLib.Core), applications that can manage Windows OS (e.g. Change wallpaper, Play MP3 audio etc.)
