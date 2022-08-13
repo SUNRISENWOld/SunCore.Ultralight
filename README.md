@@ -43,7 +43,7 @@ myImage = Images.GetFromFile(@"C:\Users\User\Pictures\flower.jpg");
 ```
 Setting desktop Wallpaper:
 ```csharp
-using SunCore_Ultralight.SystemManagement.Native_win32.NT62x;
+using SunCore.Ultralight.SystemManagement.Native_win32.NT62x;
 
 Wallpaper.Set(@"C:\Users\User\Pictures\flower.jpg", WallpaperStyle.Fill);
 ```
