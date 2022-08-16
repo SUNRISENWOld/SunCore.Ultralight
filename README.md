@@ -17,7 +17,7 @@ SunCore is a library for applications that can manage Windows OS (e.g. Change wa
 Install SunCore Ultralight with nuget
 
 ```bash
-dotnet add package SunCore.Ultralight --version 1.0.1
+dotnet add package SunCore.Ultralight --version 1.1.0
 ```
     
 ## Contributing
