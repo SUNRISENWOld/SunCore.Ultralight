@@ -33,7 +33,7 @@ Please adhere to this project's `code of conduct`.
 
 Getting Image from Stream:
 ```csharp
-using SunCore.Ultralight.SystemManagement.Native_win32.NT.Media;
+using SunCore.Ultralight.NT.Media;
 
 Images images = new Images();
 
@@ -44,7 +44,7 @@ myImage = images.GetFromStream("https://example.com");
 
 Getting Image From File:
 ```csharp
-using SunCore.Ultralight.SystemManagement.Native_win32.NT.Media;
+using SunCore.Ultralight.NT.Media;
 
 Images images = new Images();
 
@@ -54,13 +54,13 @@ myImage = images.GetFromFile(@"C:\Users\User\Pictures\flower.jpg");
 ```
 Setting desktop Wallpaper:
 ```csharp
-using SunCore.Ultralight.SystemManagement.Native_win32.NT62x;
+using SunCore.Ultralight.NT62x;
 
 Wallpaper.Set(@"C:\Users\User\Pictures\flower.jpg", WallpaperStyle.Fill);
 ```
 Setting desktop wallpaper silently (without affecting Windows history):
 ```csharp
-using SunCore.Ultralight.SystemManagement.Native_win32.NT62x;
+using SunCore.Ultralight.NT62x;
 
 Wallpaper.SilentSet(@"C:\Users\User\Pictures\flower.jpg");
 ```
