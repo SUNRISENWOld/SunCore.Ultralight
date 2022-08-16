@@ -1,0 +1,21 @@
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SunCore Ultralight.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SunCore Ultralight.pdb
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\CmlLib.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SevenZip.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SevenZip.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.csproj.AssemblyReference.cache
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.csproj.CopyComplete
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.pdb
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SunCore Ultralight.dll
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Debug\SunCore Ultralight.pdb
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.csproj.AssemblyReference.cache
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.csproj.CoreCompileInputs.cache
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.dll
+C:\Users\egeef\Desktop\Old Windows\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Debug\SunCore Ultralight.pdb

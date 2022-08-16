@@ -1,0 +1,15 @@
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\SunCore Ultralight.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\SunCore Ultralight.pdb
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\CmlLib.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\SevenZip.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\ICSharpCode.SharpZipLib.pdb
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\bin\Release\SevenZip.xml
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Release\SunCore Ultralight.csproj.AssemblyReference.cache
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Release\SunCore Ultralight.csproj.CoreCompileInputs.cache
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Release\SunCore Ultralight.csproj.CopyComplete
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Release\SunCore Ultralight.dll
+C:\Users\Ege\source\repos\SunCore Ultralight\SunCore Ultralight\obj\Release\SunCore Ultralight.pdb
