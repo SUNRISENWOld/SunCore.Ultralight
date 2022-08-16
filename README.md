@@ -1,7 +1,7 @@
 <img src="https://sunrisenw.s3.amazonaws.com/Images/512x512.png" width=80px height=80px></img> 
 # SunCore
 
-SunCore is a library for applications that can manage Windows OS (e.g. Change wallpaper, Play MP3 audio etc, Get Screen Information, Get Battery Information and some system information.)
+SunCore is a library for applications that can manage Windows OS (e.g. Change wallpaper, Play MP3 audio Get Screen Information, Get Battery Information and some system information etc.)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
