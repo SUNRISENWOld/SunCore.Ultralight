@@ -4,9 +4,10 @@ using System.Drawing;
 
 namespace SunCore.Ultralight.NT.Media
 {
-    public class Images
+    // Update 1.1.1 (not published)
+    public static class Images
     {
-        public Image GetFromStream(string url)
+        public static Image GetFromStream(string url)
         {
             var request = WebRequest.Create(url);
             
@@ -17,7 +18,7 @@ namespace SunCore.Ultralight.NT.Media
             }
         }
 
-        public Image GetFromFile(string Location)
+        public static Image GetFromFile(string Location)
         {
             return Image.FromFile(Location);
         }
